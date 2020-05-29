@@ -1,0 +1,15 @@
+Nombre de cinétiques
+1
+Nombre de covariables
+3
+IZO_PA
+Nombre d'admin.
+1
+   T       Dose       Tperf        u0         u1         u2         
+   0        500          1.4       100        24         68       
+Nombre de points
+3
+   T          C
+   1.4        3.8     
+   4          1.4
+  24   	      0.3
